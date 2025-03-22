@@ -32,7 +32,6 @@ public class Pachet {
         cards.add(carte);
     }
 
-    // Metodă pentru a obține toate cărțile din pachet
     public List<Carte> getCards() {
         return cards;
     }
